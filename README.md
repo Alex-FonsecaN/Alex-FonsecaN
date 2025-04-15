@@ -1,6 +1,6 @@
 # Hi there, I'm Alex! 👋
 
-I'm a software developer with a passion for building applications no matter the language.
+I'm a software developer with a passion for building cool and professional applications.
 
 ![GitHub followers](https://img.shields.io/github/followers/Alex-FonsecaN?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Alex-FonsecaN?affiliations=OWNER%2CCOLLABORATOR&style=social)
@@ -12,8 +12,8 @@ I'm a software developer with a passion for building applications no matter the 
 
 ## 🚀 Projects
 
-- [Hearthstonedle](https://github.com/Alex-FonsecaN/hearth-front): The front-end of a small game project made with React + Vite + Typescript + Tailwind CSS. Your goal is to guess the daily hearthstone card
-- [Portfolio](https://github.com/Alex-FonsecaN/ReactPortfolio): My own React made Portfolio.
+- [Hearthstonedle](https://github.com/Alex-FonsecaN/hearth-front): The front-end of a small web project made with React + Vite + Typescript + Tailwind CSS. Your goal is to guess the daily hearthstone card
+- [Portfolio](https://github.com/Alex-FonsecaN/ReactPortfolio): My React Portfolio.
 
 - ## 🛠️ Technologies & Tools
 
@@ -31,6 +31,6 @@ I'm a software developer with a passion for building applications no matter the 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Alex-FonsecaN&color=blue)
 
 
-*Last Updated on 17/09/2024*
+*Last Updated on 15/04/2025*
 
 
